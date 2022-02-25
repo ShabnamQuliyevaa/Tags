@@ -1,0 +1,35 @@
+body {
+    background: #ED9EFC;
+}
+
+.form {
+    padding-top: 30vh;
+    position: relative;
+    text-align: center;
+}
+
+.input input {
+    width: 250px;
+    padding: 10px;
+    border: none;
+    border-radius: 15px;
+    outline: none;
+    margin-bottom: 10px;
+}
+
+#see {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#see p {
+    padding: 10px;
+    ;
+    background: #567890;
+    color: #fff;
+    border-radius: 15px;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: default;
+}
